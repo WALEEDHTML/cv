@@ -1,0 +1,15 @@
+/************************TAG SLECTORS****************************/
+body{
+    background-color:#eaf6f6;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width:5px;
+    border-color:grey;
+    width:5%;
+}
+/******************************CLASS SLECTORS************************/
+.circular{
+  border-radius: 100%;
+}
